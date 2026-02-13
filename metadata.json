@@ -1,0 +1,7 @@
+{
+  "name": "Zenith - Peak of Elegance",
+  "description": "A minimalist luxury print-on-demand e-commerce experience featuring high-end apparel and an AI-powered personal stylist.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
